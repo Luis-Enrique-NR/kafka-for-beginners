@@ -18,7 +18,7 @@ EDA transforma la comunicación entre servicios cambiando peticiones directas po
 
 ```text
                                             ┌──► [ Servicio de Inventario ]
-[ Servicio de Órdenes ] ──► ( Publica Evento )  │
+[ Servicio de Órdenes ] ──► ( Publica Evento )  
      (Productor)           "OrdenCreada"    ├──► [ Servicio de Envíos ]
                                 │           │
                                 ▼           └──► [ Servicio de Notificaciones ]

@@ -1,4 +1,4 @@
-# 🚀 Misión 01: El Primer Flujo de Eventos en TechStore
+# 🚀 Laboratorio 01: El Primer Flujo de Eventos en TechStore
 
 ## 📌 Nota Técnica Inicial: Entorno Community y Enfoque Híbrido
 
